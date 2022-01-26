@@ -1,0 +1,15 @@
+C:\Users\Jurgen\Documents\Proyectos\BigFoodServicesSA\BigFoodServicesSA\bin\Debug\BigFoodServicesSA.exe.config
+C:\Users\Jurgen\Documents\Proyectos\BigFoodServicesSA\BigFoodServicesSA\bin\Debug\BigFoodServicesSA.exe
+C:\Users\Jurgen\Documents\Proyectos\BigFoodServicesSA\BigFoodServicesSA\bin\Debug\BigFoodServicesSA.pdb
+C:\Users\Jurgen\Documents\Proyectos\BigFoodServicesSA\BigFoodServicesSA\bin\Debug\BLL.dll
+C:\Users\Jurgen\Documents\Proyectos\BigFoodServicesSA\BigFoodServicesSA\bin\Debug\DAL.dll
+C:\Users\Jurgen\Documents\Proyectos\BigFoodServicesSA\BigFoodServicesSA\bin\Debug\BLL.pdb
+C:\Users\Jurgen\Documents\Proyectos\BigFoodServicesSA\BigFoodServicesSA\bin\Debug\DAL.pdb
+C:\Users\Jurgen\Documents\Proyectos\BigFoodServicesSA\BigFoodServicesSA\obj\Debug\BigFoodServicesSA.csprojAssemblyReference.cache
+C:\Users\Jurgen\Documents\Proyectos\BigFoodServicesSA\BigFoodServicesSA\obj\Debug\BigFoodServicesSA.FrmPrincipal.resources
+C:\Users\Jurgen\Documents\Proyectos\BigFoodServicesSA\BigFoodServicesSA\obj\Debug\BigFoodServicesSA.Properties.Resources.resources
+C:\Users\Jurgen\Documents\Proyectos\BigFoodServicesSA\BigFoodServicesSA\obj\Debug\BigFoodServicesSA.csproj.GenerateResource.cache
+C:\Users\Jurgen\Documents\Proyectos\BigFoodServicesSA\BigFoodServicesSA\obj\Debug\BigFoodServicesSA.csproj.CoreCompileInputs.cache
+C:\Users\Jurgen\Documents\Proyectos\BigFoodServicesSA\BigFoodServicesSA\obj\Debug\BigFoodServicesSA.csproj.CopyComplete
+C:\Users\Jurgen\Documents\Proyectos\BigFoodServicesSA\BigFoodServicesSA\obj\Debug\BigFoodServicesSA.exe
+C:\Users\Jurgen\Documents\Proyectos\BigFoodServicesSA\BigFoodServicesSA\obj\Debug\BigFoodServicesSA.pdb

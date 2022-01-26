@@ -1,0 +1,6 @@
+C:\Users\Jurgen\Documents\Proyectos\BigFoodServicesSA\BLL\bin\Debug\BLL.dll
+C:\Users\Jurgen\Documents\Proyectos\BigFoodServicesSA\BLL\bin\Debug\BLL.pdb
+C:\Users\Jurgen\Documents\Proyectos\BigFoodServicesSA\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+C:\Users\Jurgen\Documents\Proyectos\BigFoodServicesSA\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\Jurgen\Documents\Proyectos\BigFoodServicesSA\BLL\obj\Debug\BLL.dll
+C:\Users\Jurgen\Documents\Proyectos\BigFoodServicesSA\BLL\obj\Debug\BLL.pdb
